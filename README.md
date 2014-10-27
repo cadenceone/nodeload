@@ -3,8 +3,8 @@ nodeload
 
 Prereqs: groovy, npm
 
-'''
-npm install node-http-proxy
+```
+npm install http-proxy
 npm install node-rest-client#1.4.1
 
 
@@ -15,4 +15,4 @@ node nodeHttpProxy.js
 node nodeRestClient.js
 
 groovy load.groovy
-'''
+```
